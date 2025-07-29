@@ -1,0 +1,22 @@
+{
+  "name": "tuessession",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivyaVijapure/TuesSession.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivyaVijapure/TuesSession/issues"
+  },
+  "homepage": "https://github.com/DivyaVijapure/TuesSession#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
